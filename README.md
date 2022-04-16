@@ -14,7 +14,7 @@ this is my solution for the QR Code challenge
 ### Links
 
 - Solution URL : [code](https://github.com/EtnoPolino/challenge_qrcode.git)
-- Live Site URL : [demo]()
+- Live Site URL : [demo](https://etnopolino.github.io/challenge_qrcode/)
 
 ### Built with
 
